@@ -2,7 +2,7 @@
 import adapter from '@sveltejs/adapter-netlify'
 // import { createRequire } from 'module'
 // const require = createRequire(import.meta.url)
-// const pkg = require('./package.json')
+// const pkg = require('./package.json') rajmohan
 
 const config = {
   kit: {
