@@ -1,4 +1,4 @@
-import adapterStatic from '@sveltejs/adapter-static'
+//import adapterStatic from '@sveltejs/adapter-static'
 import adapterNetlify from '@sveltejs/adapter-netlify'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
