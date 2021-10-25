@@ -4,10 +4,10 @@
   "scripts": {
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
-    "start": "svelte-kit preview"
+    "start": "svelte-kit preview",
+    "preview": "svelte-kit preview"
   },
   "devDependencies": {
-    "@prismicio/client": "^4.0.0",
     "@sveltejs/adapter-netlify": "^1.0.0-next.14",
     "@sveltejs/adapter-node": "^1.0.0-next.22",
     "@sveltejs/adapter-static": "^1.0.0-next.11",
